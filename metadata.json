@@ -1,0 +1,9 @@
+{
+  "name": "DealFlow - AI Price Negotiator",
+  "description": "An intelligent shopping assistant that analyzes product screenshots, evaluates value, and generates negotiation scripts using Google Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
